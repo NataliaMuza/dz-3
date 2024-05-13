@@ -1,0 +1,24 @@
+---
+student:
+ first name: Nataliia
+ second name: Muzychenko
+ age: 35
+ married: true
+ children: true
+greeting: "Hello World!"
+hobby: 
+- sport 
+- IT:
+  - Manual QA
+  - Automation QA
+   --Docker
+   --GitHub
+- books:
+  - science fiction
+  - fantasy
+  - novel
+  - detective
+- animals
+address: "Vinnytsia, A.Yangelia street, 69"
+email: "holeytoe@gmail.com"
+...

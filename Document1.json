@@ -1,0 +1,20 @@
+{
+    "firstName": "Nataliia",
+    "second name": "Muzychenko",
+    "age": 35,
+    "married": true,
+    "children": 1,
+    "hobby": [
+        "books",
+        "IT",
+        "animals",
+        "sport"
+    ],
+    "address": {
+        "country": "UA",
+        "city": "Vinnytsia",
+        "zip": "21000",
+        "street": "A.Yangelya",
+        "street number": 69
+    }
+}
