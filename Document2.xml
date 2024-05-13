@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<student>
+    <firstname>Nataliia</firstname>
+    <secondname>Muzychenko</secondname>
+    <age>35</age>
+<hobby>
+<book category="science fiction">Hyperion</book>
+ <category>science fiction</category>
+ <category>fiction</category>
+ <category>romans</category>
+ <category>fantasy</category>
+<sport></sport>
+<it>Manual testing, JAVA, QAA testing</it>
+</hobby>
+</student>
